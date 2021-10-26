@@ -1,5 +1,5 @@
 ### Hey! I'm Andrew. Welcome to my Github 👋
-
+![](profile_gif.gif)
 - 📊 Data visualization is my forte. See my [Tableau] page! 
 - 🚀 Most of what you see here is Tableau, Python, and Figma
 - 🧠 I'm interested in how our social climate and media trends influence BI decisions 
